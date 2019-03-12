@@ -2439,7 +2439,7 @@ body {
   text-align: center;
 }
 .cid-qKViQrnljV .content-slider-wrap {
-  width: 57%;
+  width: 92%;
 }
 .cid-qKViQrnljV P {
   text-align: left;
@@ -2543,7 +2543,7 @@ body {
   color: #149dcc;
 }
 .cid-qKPtd9AnW4 {
-  background-image: url("../../../assets/images/highresscreenshot00002-1606x849.png");
+  background-image: url("../../../assets/images/collage-2-2000x981.png");
 }
 .cid-qKPtd9AnW4 H1 {
   color: #ffffff;
@@ -2578,6 +2578,10 @@ body {
   .cid-qKPyWSDAFO .mbr-figure {
     padding-top: 3rem;
   }
+}
+.cid-qKPyWSDAFO .mbr-text,
+.cid-qKPyWSDAFO .mbr-section-btn {
+  text-align: left;
 }
 .cid-qKPJox6MvU {
   padding-top: 60px;
@@ -3726,6 +3730,50 @@ body {
 .cid-qKNFbjNLrs .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rkx4DFHXl8 {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background: linear-gradient(45deg, #465052, #465052);
+}
+.cid-rkx4DFHXl8 .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
+.cid-rkx4DFHXl8 H3 {
+  text-align: left;
+}
+.cid-rkx94C3AUz {
+  padding-top: 30px;
+  padding-bottom: 90px;
+  background-color: #465052;
+}
+.cid-rkx94C3AUz .media-container-row {
+  flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rkx94C3AUz .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rkx94C3AUz .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rkx94C3AUz .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rkx94C3AUz .mbr-text,
+.cid-rkx94C3AUz .mbr-section-btn {
+  text-align: left;
+}
+.cid-rkx94C3AUz H1 {
+  text-align: left;
+}
 .cid-qKPoK0AzAa {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -4656,10 +4704,10 @@ body {
   background: #22d558;
 }
 .cid-qKTsw78wFc .progress1 .progressbar-number:before {
-  content: '85';
+  content: '100';
 }
 .cid-qKTsw78wFc .progress2 .progressbar-number:before {
-  content: '75';
+  content: '85';
 }
 .cid-qKTsw78wFc .progress3 .progressbar-number:before {
   content: '50';
@@ -4756,10 +4804,10 @@ body {
   background: #22d558;
 }
 .cid-qKTuMFzwXW .progress1 .progressbar-number:before {
-  content: '66';
+  content: '75';
 }
 .cid-qKTuMFzwXW .progress2 .progressbar-number:before {
-  content: '50';
+  content: '75';
 }
 .cid-qKTuMFzwXW .progress3 .progressbar-number:before {
   content: '50';
